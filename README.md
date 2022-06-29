@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GVRQ
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Kaggle projects
+- 👀 I’m interested in Python and Data Science
+- 👋 I’m looking to collaborate on Kaggle projects
 
 <!---
 GVRQ/GVRQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
