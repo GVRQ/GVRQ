@@ -1,4 +1,4 @@
-<h2 align="left">Hi there 👋 I'm Alexander Gavrilov</h2>
+<h2 align="center">Hi there 👋 I'm Alexander Gavrilov</h2>
 <h3 align="center">Entrepreneur and Data Scientist</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
