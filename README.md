@@ -2,7 +2,6 @@
 <h3 align="center">Entrepreneur and Data Scientist</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://t.me/gavrilov_se]" target="blank"><img align="center" src="https://www.svgrepo.com/show/349527/telegram.svg" alt="Telegram" height="30" width="40" /></a>
 <a href="https://t.me/gavrilov_se" target="blank"><img align="center" src="https://www.svgrepo.com/show/349527/telegram.svg" alt="Telegram_Alexander_Gavrilov_Data_Scientist" height="30" width="40" /></a>
 </p>
 <a href="https://kaggle.com/alexandergavrilov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alexandergavrilov" height="30" width="40" /></a>
