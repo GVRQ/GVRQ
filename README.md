@@ -3,7 +3,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/gavrilov_se" target="blank"><img align="center" src="https://www.svgrepo.com/show/349527/telegram.svg" alt="Telegram_Alexander_Gavrilov_Data_Scientist" height="30" width="40" /></a>
-</p>
 <a href="mailto:alexander@gavrilov.se" target="blank"><img align="center" src="https://www.clipartmax.com/png/full/91-913506_computer-icons-email-address-clip-art-icon-email-vector-png.png" alt="Email_Alexander_Gavrilov_Data_Scientist" height="30" width="30" /></a>
 </p>
 
