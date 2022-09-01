@@ -1,10 +1,10 @@
 <h2 align="left">Hi there 👋 I'm Alexander Gavrilov</h2>
 <h3 align="left">Entrepreneur and Data Scientist</h3>
+<p>Over the past years, I used data analysis to gain an unbeatable competitive edge in online retail &amp; video content production.</p>
+<p dir="auto">Since then, I have graduated a Data Science program where I learned advanced data analysis tools, python, data science, and machine learning algorithms focused on business solutions.&nbsp;My recent projects and solutions are listed below in the data science project section.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/gavrilov_se" target="blank"><img align="center" src="https://www.svgrepo.com/show/349527/telegram.svg" alt="Telegram_Alexander_Gavrilov_Data_Scientist" height="30" width="40" /></a>
-<p>Over the past years, I used data analysis to gain an unbeatable competitive edge in online retail &amp; video content production.</p>
-<p dir="auto">Since then, I have graduated a Data Science program where I learned advanced data analysis tools, python, data science, and machine learning algorithms focused on business solutions.&nbsp;My recent projects and solutions are listed below in the data science project section.</p>
 <a href="mailto:alexander@gavrilov.se" target="blank"><img align="center" src="https://www.clipartmax.com/png/full/91-913506_computer-icons-email-address-clip-art-icon-email-vector-png.png" alt="Email_Alexander_Gavrilov_Data_Scientist" height="30" width="30" /></a>
 </p>
 
