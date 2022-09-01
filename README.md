@@ -1,7 +1,7 @@
 <h2 align="left">Hi there 👋 I'm Alexander Gavrilov</h2>
 <h3 align="left">Entrepreneur and Data Scientist</h3>
 <p>Over the past 10 years, I analyzed data with essential tools to gain a competitive edge in online retail &amp; video content production.</p>
-<p dir="auto">Since then, I have graduated a Data Science program where I learned advanced data analysis tools, python, data science & machine learning algorithms focused on business solutions.&nbsp;My recent projects and solutions are listed below in the data science project section.</p>
+<p dir="auto">Since then, I have graduated a Data Science program where I learned advanced data analysis tools, python, data science & machine learning algorithms focused on business solutions.&nbsp;My recent projects are listed below in the data science project section.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/gavrilov_se" target="blank"><img align="center" src="https://www.svgrepo.com/show/349527/telegram.svg" alt="Telegram_Alexander_Gavrilov_Data_Scientist" height="30" width="40" /></a>
