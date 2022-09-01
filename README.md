@@ -1,6 +1,6 @@
 <h2 align="left">Hi there 👋 I'm Alexander Gavrilov</h2>
 <h3 align="left">Entrepreneur and Data Scientist</h3>
-<p>Over the past years, I used data analysis to gain an unbeatable competitive edge in online retail &amp; video content production.</p>
+<p>Over the past 10 years, I analyzed data with essential tools to gain a competitive edge in online retail &amp; video content production.</p>
 <p dir="auto">Since then, I have graduated a Data Science program where I learned advanced data analysis tools, python, data science, and machine learning algorithms focused on business solutions.&nbsp;My recent projects and solutions are listed below in the data science project section.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
