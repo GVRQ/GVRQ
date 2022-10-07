@@ -18,6 +18,24 @@
 </ul>
 <p>Data science project's goal is to determine the market value of real estate objects and to define typical parameters of residential properties. The real estate listing platform will use EDA's conclusions in an automated system to prevent fraudulent activities on the platform.</p>
 
+<table>
+<tbody>
+<tr>
+<td><strong>Field of activity</strong></td>
+<td><strong>Line of activity</strong></td>
+<td><strong>Skills and tools</strong></td>
+<td><strong>Project keywords</strong></td>
+</tr>
+<tr>
+<td><span lang="en">Internet services, Ad platforms</span></td>
+<td><span lang="en">Marketing Analyst, Fraud Analyst, Data Analyst</span></td>
+<td>Python, Pandas, Matplotlib, exploratory data analysis, data visualization, data preprocessing</td>
+<td><span lang="en">Data processing, histogram, boxplot, scatter matrix,
+categorization, scatter plot, fraud monitoring</span></td>
+</tr>
+</tbody>
+</table>
+
 <ul>
 <li dir="auto"><a href="https://github.com/GVRQ/customer_churn_prediction"><strong>[RU] Customer churn forecast for telecom operator</strong></a></li>
 </ul>
