@@ -10,6 +10,9 @@
 
 <h3 align="left">Recent Data Science Projects:</h3>
 <ul>
+<li dir="auto"><a href="https://github.com/GVRQ/US_HPI_vs_CPI_2022"><strong>Forecasting and Analysis: U.S. Home Prices vs. Consumer Price Index in 2022</strong></a></li>
+</ul>
+<ul>
 <li dir="auto"><a href="https://github.com/GVRQ/Real_Estate_EDA"><strong>Exploratory Data Analysis (EDA) on Residential Properties</strong></a></li>
 </ul>
 <p>Data science project's goal is to determine the market value of real estate objects and to define typical parameters of residential properties. The real estate listing platform (*<strong><em>NDA</em></strong>) will use EDA's conclusions in an automated system to prevent fraudulent activities on the platform.</p>
