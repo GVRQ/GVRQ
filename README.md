@@ -12,6 +12,7 @@
 <ul>
 <li dir="auto"><a href="https://github.com/GVRQ/US_HPI_vs_CPI_2022"><strong>Forecasting and Analysis: U.S. Home Prices vs. Consumer Price Index in 2022</strong></a></li>
 </ul>
+<p>Data science project's goal is to provide an overview of 2022: HPI vs CPI in the US. 75 & 35 years of data analysed in order to forecast remaining 2022's months data on HPI & CPI. Forecasting is made using Prophet model. </p>
 <ul>
 <li dir="auto"><a href="https://github.com/GVRQ/Real_Estate_EDA"><strong>Exploratory Data Analysis (EDA) on Residential Properties</strong></a></li>
 </ul>
