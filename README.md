@@ -15,6 +15,11 @@
 <h3 align="left">Ongoing Projects:</h3>
 
 <ul>
+<li dir="auto"><a href="https://github.com/GVRQ/U.S.-CPI-vs-Fed-Rate/"><strong>U.S. Inflation rate (CPI) vs Fed Reserve interest rate. 1983 - 2022</strong></a></li>
+</ul>
+<p>Correlation between inflation (CPI) and the Fed Rate 1983. Analysis of CPI & the Fed Rate during US national recessions (1990s, 2000s, Great Recession, Covid-19 recession) as well as  pre & post recession periods.</p>
+
+<ul>
 <li dir="auto"><a href="https://github.com/GVRQ/Mortgage-Rates-Forecast"><strong>US Mortgage Interest Rates Forecast for 2022</strong></a></li>
 </ul>
 
