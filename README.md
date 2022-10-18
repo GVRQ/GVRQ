@@ -47,8 +47,8 @@
 <td style="width: 33.333333%;"><strong>Skills &amp; Tools</strong></td>
 </tr>
 <tr>
-<td style="width: 33.333333%;"><a href="https://github.com/GVRQ/Real_Estate_EDA">[EN] Exploratory Data Analysis (EDA) on Residential Properties</a></td>
-<td style="width: 33.333333%;">Data science project's goal is to determine the market value of real estate objects and to define typical parameters of residential properties. The real estate listing platform will use EDA's conclusions in an automated system to prevent fraudulent activities on the platform.</td>
+<td style="width: 33.333333%;"><a href="https://github.com/GVRQ/Real_Estate_EDA">[EN] EDA on Residential Properties</a></td>
+<td style="width: 33.333333%;">Data science project's goal is to determine the market value of real estate objects and to define typical parameters of residential properties. The real estate listing platform will use Exploratory Data Analysis' conclusions in an automated system to prevent fraudulent activities on the platform.</td>
 <td style="width: 33.333333%;">Python, Pandas, Matplotlib, exploratory data analysis, data visualization, data preprocessing, data processing, histogram, boxplot, scatter matrix, categorization, scatter plot, fraud monitoring</td>
 </tr>
 <tr>
