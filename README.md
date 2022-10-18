@@ -47,12 +47,12 @@
 <td style="width: 33.333333%;"><strong>Skills &amp; Tools</strong></td>
 </tr>
 <tr>
-<td style="width: 33.333333%;"><a href="https://github.com/GVRQ/Real_Estate_EDA">[EN] EDA on Residential Properties</a></td>
+<td style="width: 33.333333%;"><a href="https://github.com/GVRQ/Real_Estate_EDA">[EN] Housing EDA</a></td>
 <td style="width: 33.333333%;">Data science project's goal is to determine the market value of real estate objects and to define typical parameters of residential properties. The real estate listing platform will use Exploratory Data Analysis' conclusions in an automated system to prevent fraudulent activities on the platform.</td>
 <td style="width: 33.333333%;">Python, Pandas, Matplotlib, exploratory data analysis, data visualization, data preprocessing, data processing, histogram, boxplot, scatter matrix, categorization, scatter plot, fraud monitoring</td>
 </tr>
 <tr>
-<td style="width: 33.333333%;"><a href="https://github.com/GVRQ/customer_churn_prediction">[RU] Customer churn forecast for telecom operator</a></td>
+<td style="width: 33.333333%;"><a href="https://github.com/GVRQ/customer_churn_prediction">[RU] Customer churn forecast</a></td>
 <td style="width: 33.333333%;">Data science project's goal is to predict whether the client will leave the telecom operator in the near future or not. If it turns out that the user plans to leave, he will be offered promo codes and special plans.</td>
 <td style="width: 33.333333%;">LogisticRegression, RandomForestClassifier, CatBoostClassifier, Python NumPy, Scikit-learn, Matplotlib, data analysis, regression, custom metrics, gradient boosting</td>
 </tr>
