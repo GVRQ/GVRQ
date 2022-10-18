@@ -1,4 +1,4 @@
-<h3 align="left">Hi there 👋 I'm Alexander Gavrilov</h3>
+<h3 align="left">Hi there 👋 I'm Alexander</h3>
 <p>Data Scientist with a background in Business Analytics & Management (E-Commerce). Experience in extracting actionable insights from massive amounts of data, cross-domain measurement, and decision-making. Skills: data analysis, analytical problem solving, time series forecasting with machine learning, predictive analytics, deep learning, and product development.</p>
 
 <p>Tech Stack: Python · Pandas · NumPy · Scikit-Learn · SQL · Machine Learning · Data Science · MS Office · Keras · NLTK · PyTorch · Matplotlib · Seaborn · XGBoost · CatBoost</p>
