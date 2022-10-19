@@ -42,7 +42,7 @@
 <p><a href="https://github.com/GVRQ/Real_Estate_EDA">Exploratory Data Analysis(EDA) on Residential Properties</a></p>
 <p>Data science project's goal is to determine the market value of real estate objects and to define typical parameters of residential properties. The real estate listing platform will use Exploratory Data Analysis' conclusions in an automated system to prevent fraudulent activities on the platform.</p>
 </td>
-<td style="width: 50%; height: 18px;">Exploratory data analysis, data visualization, data preprocessing, data processing, histogram, boxplot, scatter matrix, categorization, scatter plot, fraud monitoring, numpy, seaborn, pyplot, python, pandas, matplotlib.</td>
+<td style="width: 50%; height: 18px;">Exploratory data analysis, data visualization, data preprocessing, data processing, histogram, boxplot, scatter matrix, categorization, scatter plot, fraud monitoring, numpy, seaborn, pyplot, python, pandas, matplotlib</td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 50%; height: 18px;">
