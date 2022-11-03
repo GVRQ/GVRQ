@@ -17,6 +17,25 @@
 <td style="width: 50%; height: 18px;"><strong>Project</strong></td>
 <td style="width: 50%; height: 18px;"><strong>Skills &amp; Tools</strong></td>
 </tr>
+
+<tr style="height: 186px;">
+<td style="width: 50%; height: 186px;">
+<p><a href="https://github.com/GVRQ/e-commerce_experiments/">E-Commerce Experiments</a></p>
+<p>This Data Science project's goal is to conduct experiments with various metrics on e-commerce data. </p>
+</td>
+<td style="width: 50%; height: 186px;"><p>Metrics:</p>
+<ul>
+<li>Gamma-Gamma &amp; BG/NBD</li>
+<li>Heuristic metrics</li>
+<li>Customer Lifetime Value prediction and segmentation</li>
+<li>RFM Segmentation (Recency, Frequency, and Monetary)</li>
+<li>CLV Segments + RFM</li>
+</ul></td>
+</tr>
+<tr style="height: 168px;">
+<td style="width: 50%; height: 168px;">  
+  
+  
 <tr style="height: 186px;">
 <td style="width: 50%; height: 186px;">
 <p><a href="https://github.com/GVRQ/U.S.-CPI-vs-Fed-Rate/">U.S. Inflation rate vs Fed Rate. 1983 - 2022</a></p>
@@ -30,13 +49,6 @@
 <p>Overview of 2022: HPI vs CPI in the US (Forecasting and Analysis). 75 &amp; 35 years of data analysed in order to forecast remaining 2022's months data on HPI &amp; CPI. Forecasting is made using Prophet model.</p>
 </td>
 <td style="width: 50%; height: 168px;">Data forecasting, exploratory data analysis, linear regression, data visualization, data preprocessing, data processing, prediction,&nbsp;pandas, numpy, seaborn, matplotlib, datareader, sklearn, pyplot,&nbsp;statsmodels, pystan, tsarplot, fbprophet, prophet.</td>
-</tr>
-<tr style="height: 150px;">
-<td style="width: 50%; height: 150px;">
-<p><a href="https://github.com/GVRQ/Mortgage-Rates-Forecast">US Mortgage Interest Rates Forecast for 2022</a></p>
-<p>Define factors that affect US Mortgage interest rates. Create a machine learning model for time series forecasting.</p>
-</td>
-<td style="width: 50%; height: 150px;">Ongoing project</td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 50%; height: 18px;">
