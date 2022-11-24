@@ -1,7 +1,7 @@
 <h3 align="left">Hi there 👋 I'm Alexander</h3>
 <p>Data Scientist with a background in Business Analytics & Management (E-Commerce). Experience in extracting actionable insights from massive amounts of data, cross-domain measurement, and decision-making. Skills: data analysis, analytical problem solving, time series forecasting with machine learning, predictive analytics, deep learning, and product development.</p>
 
-<p>Tech Stack: Python · Pandas · NumPy · Scikit-Learn · SQL · Machine Learning · Data Science · Tableau · MS Office · Keras · NLTK · PyTorch · Matplotlib · Seaborn · XGBoost · CatBoost</p>
+<p>Tech Stack: Python · Pandas · NumPy · Scikit-Learn · SQL · Machine Learning · Data Science · Tableau · MS Office · Keras · NLTK · TensorFlow · Matplotlib · Seaborn · XGBoost · CatBoost</p>
 
 <h3 style="text-align: left;" align="left">Connect with me:</h3>
 <p style="text-align: left;" align="left"><a href="https://t.me/gavrilov_se" target="blank"><img style="float: left;" src="https://www.svgrepo.com/show/349527/telegram.svg" alt="Telegram_Alexander_Gavrilov_Data_Scientist" width="40" height="30" align="center" /></a>&nbsp;<a href="mailto:alexander@gavrilov.se" target="blank"><img src="https://www.clipartmax.com/png/full/91-913506_computer-icons-email-address-clip-art-icon-email-vector-png.png" alt="Email_Alexander_Gavrilov_Data_Scientist" width="30" height="30" align="center" /></a>&nbsp; <a href="https://www.linkedin.com/in/GVRQ/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png" alt="Linkedin_Alexander_Gavrilov_Data_Scientist" width="30" height="30" align="center" /></a></p>
