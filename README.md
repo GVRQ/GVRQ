@@ -20,6 +20,13 @@
 
 <tr style="height: 186px;">
 <td style="width: 50%; height: 186px;">
+<p><a href="https://github.com/GVRQ/J2D_Data-Science_2022">Hackathon | Jump2Digital 2022 | Data Science</a></p>
+<p>Participated in Data Science Hackathon by Barcelona Digital Talent. Project "Air Quality Classification". </p>
+</td>
+<td style="width: 50%; height: 186px;"><p><strong>Results: Individual Ranking #1, Highest Score.</strong></p>
+  
+<tr style="height: 186px;">
+<td style="width: 50%; height: 186px;">
 <p><a href="https://github.com/GVRQ/e-commerce_experiments/">E-Commerce Experiments</a></p>
 <p>This Data Science project's goal is to conduct experiments with various metrics on e-commerce data. </p>
 </td>
