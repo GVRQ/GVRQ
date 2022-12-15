@@ -79,3 +79,36 @@
 </table>
 
 </details>
+
+
+<details closed="">
+<summary><h3 align="left"><strong>Completed Projects (can be shared upon request):</strong></h3></summary>
+  
+<div>- Machine Learning for Texts / Toxic Comment Classification: model development; NLTK, lemmatisation</div>
+<div>(Python, Pandas, NLTK, WordNetLemmatizer, WordNet, SciKit-learn, CatBoost)</div>
+<div>&nbsp;</div>
+<div>- Music Streaming Service: user behavior analytics , comparative analysis and hypothesis testing&nbsp;(Python, Pandas, Data Analysis)</div>
+<div>&nbsp;</div>
+<div>- Credit Risk Analysis: data preprocessing, analysis and hypothesis testing</div>
+<div>(Python, Pandas, Data Preprocessing &amp; Analysis)</div>
+<div>&nbsp;</div>
+<div>- Real Estate Market Analysis: factors affecting price determination; exploratory data analysis&nbsp;(Python, Pandas, Matplotlib, Visualization, Data Preprocessing, Exploratory Data Analysis)</div>
+<div>&nbsp;</div>
+<div>- Statistical Data Analysis / Telecom Tariff Analysis: descriptive statistics, data analysis and hypothesis testing&nbsp;(Python, Pandas, Matplotlib, NumPy, SciPy, Data Preprocessing, EDA, Student's t-test)</div>
+<div>&nbsp;</div>
+<div>- Computer Vision / Supermarket Chain's Customer Age Verification: building and evaluating a ML model&nbsp;(Python, Keras, TensorFlow, Image Processing, Neural Networks, Machine Learning)</div>
+<div>&nbsp;</div>
+<div>- Machine Learning / Telecom Customer Classification: classification, ML model &amp; hyperparameter selection&nbsp;(Python, Pandas, Matplotlib, SciKit-learn)</div>
+<div>&nbsp;</div>
+<div>- Supervised Learning / Bank Customer Churn Prediction: forecasting, classification, ML model &amp; hyperparameter selection (Python, Pandas, Matplotlib, SciKit-learn)</div>
+<div>&nbsp;</div>
+<div>- Machine Learning / Mining Company's New Well Location Selection: regression, business model development, bootstrap (Python, Pandas, NumPy, Matplotlib, Seaborn, SciKit-learn)</div>
+<div>&nbsp;</div>
+<div>- Machine Learning / Gold Concentration Ratio Prediction: data analysis, regression, custom metrics&nbsp;(Python, Pandas, NumPy, Matplotlib, Seaborn, SciKit-learn)</div>
+<div>&nbsp;</div>
+<div>- Insurance Company Client's Data Protection: development of a data anonymization model; linear algebra, regression&nbsp;(Python, NumPy, SciKit-learn)</div>
+<div>&nbsp;</div>
+<div>- Numerical Methods / Car Price Prediction: development of a car price prediction model; regression, gradient boosting&nbsp;(Python, NumPy, SciKit-learn, CatBoost, LightGBM)</div>
+<div>&nbsp;</div>
+<div>- Time Series / Taxi Demand Prediction: development of a taxi demans prediction model; time series, regression, predictions (Python, NumPy, SciKit-learn, Statsmodels)</div>
+</details>
