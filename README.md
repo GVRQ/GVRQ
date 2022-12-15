@@ -81,7 +81,7 @@
 </details>
 
 
-<details closed="">
+<details open="">
 <summary><h3 align="left"><strong>Completed Projects (can be shared upon request):</strong></h3></summary>
   
 <div>- Machine Learning for Texts / Toxic Comment Classification: model development; NLTK, lemmatisation</div>
