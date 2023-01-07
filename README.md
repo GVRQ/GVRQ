@@ -17,7 +17,7 @@
 
 <tr style="height: 186px;">
 <td style="width: 50%; height: 186px;">
-<p><a href="https://github.com/GVRQ/TS3-DS">Hackathon | Talent Squad | Data Science/a></p>
+<p><a href="https://github.com/GVRQ/TS3-DS">Hackathon | Talent Squad | Data Science </a></p>
 <p>Participated in Data Science hackathon by Barcelona Digital Talent. Project "Influences on Academic Achievement". </p>
 </td>
 <td style="width: 50%; height: 186px;"><p><strong>Results: 🥈 Individual Ranking #2nd Place.</strong></p>
