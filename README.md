@@ -17,6 +17,12 @@
 
 <tr style="height: 186px;">
 <td style="width: 50%; height: 186px;">
+<p><a href="https://github.com/GVRQ/streamlit-crypto-data/">Cryptocurrency online app</a></p>
+<p>Create an online app with cryptocurrency exchange rates over time. Used: VS Code, the CoinCap API, Streamlit.</p>
+</td>
+  
+<tr style="height: 186px;">
+<td style="width: 50%; height: 186px;">
 <p><a href="https://github.com/GVRQ/TS3-DS">Hackathon | Talent Squad | Data Science </a></p>
 <p>Participated in Data Science hackathon by Barcelona Digital Talent. Project "Influences on Academic Achievement". </p>
 </td>
