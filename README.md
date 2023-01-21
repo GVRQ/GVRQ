@@ -18,7 +18,7 @@
 <tr style="height: 186px;">
 <td style="width: 50%; height: 186px;">
 <p><a href="https://github.com/GVRQ/streamlit-crypto-data/">Cryptocurrency online app</a></p>
-<p>Create an online app with cryptocurrency exchange rates over time.</p>
+<p>Created a simple web app with cryptocurrency exchange rates over time.</p>
 </td>
 <td style="width: 50%; height: 186px;"><p>VS Code, the CoinCap API, Streamlit.</p>
   
