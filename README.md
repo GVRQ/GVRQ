@@ -17,7 +17,7 @@
 
 <tr style="height: 186px;">
 <td style="width: 50%; height: 186px;">
-<p>UAE Real Estate Investments - Valuation & Prediction</p>
+<p><strong>UAE Real Estate Investments - Valuation & Prediction</strong></p>
 <p>- Data Mining: 130.000 properties in Dubai</p>
 <p>- ML: created a machine learning algorithm for property valuation</p>
 <p>- ML: created a machine learning algorithm for yearly rental price prediction</p>
