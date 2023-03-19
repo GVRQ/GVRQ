@@ -49,7 +49,7 @@
   
 <tr style="height: 186px;">
 <td style="width: 50%; height: 186px;">
-<p><a href="https://github.com/GVRQ/e-commerce_experiments/">E-Commerce Experiments</a></p>
+<p><a href="https://github.com/GVRQ/e-commerce_experiments/">E-Commerce</a></p>
 <p>This Data Science project's goal is to conduct experiments with various metrics on e-commerce data. </p>
 </td>
 <td style="width: 50%; height: 186px;"><p>Metrics:</p>
