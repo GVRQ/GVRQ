@@ -22,9 +22,6 @@
 <p>- ML: created a machine learning algorithm for property valuation</p>
 <p>- ML: created a machine learning algorithm for yearly rental price prediction</p>
 <p>- Created a web app that predicts property value (price, rental) based on property's features</p>
-<p>- Automated data mining - work in progress</p>
-<p>- Automated analysis and prediction- work in progress</p>
-<p>- Automated investment e-mail/telegram notification - work in progress</p>
 </td>
 <td style="width: 50%; height: 186px;"><p>Work in progress</p>
 
