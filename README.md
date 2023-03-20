@@ -23,7 +23,7 @@
 <p>- ML: created a separate app for yearly rental price prediction</p>
 <p>- Created a web app that predicts property value based on property's features</p>
 </td>
-<td style="width: 50%; height: 186px;"><p>Work in progress</p>
+<td style="width: 50%; height: 186px;"><p>RandomForestRegressor, Pandas, Matplotlib,Seaborn,LinearRegression, GridSearchCV, StandardScaler, Cross_val_score, Shuffle</p>
 
 <tr style="height: 186px;">
 <td style="width: 50%; height: 186px;">
