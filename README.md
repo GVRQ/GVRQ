@@ -28,7 +28,7 @@
 <p>- ML: created a separate app for yearly rental price prediction</p>
 <p>- Created insightful reports, leveraging data analysis and machine learning model outcomes.</p>
 </td>
-<td style="width: 50%; height: 186px;"><p>CatboostRegresson, VS Code, Streamlit, Pandas, Seaborn,GridSearchCV, StandardScaler, Cross_val_score, Shuffle</p>  
+<td style="width: 50%; height: 186px;"><p>CatboostRegressor, VS Code, Streamlit, Pandas, Seaborn, GridSearchCV,StandardScaler, Cross_val_score, Shuffle</p>  
   
 <tr style="height: 186px;">
 <td style="width: 50%; height: 186px;">
