@@ -1,4 +1,4 @@
-<h3 align="left">Hi there 👋 I'm Alexander</h3>
+<h3 align="left">Hi there 👋 I'm Alexander,</h3>
 <p>Stockholm-based data scientist and digital marketing expert with a background in E-Commerce, Business Analytics and Management. With an entrepreneurial mindset and strong technical skills in Python, SQL, Machine Learning, Data Science, Tableau, MS Office, Keras, NLTK, TensorFlow, Matplotlib, Seaborn, XGBoost, and CatBoost, I deliver innovative data-driven solutions that drive growth. I have extensive experience in extracting actionable insights from massive amounts of data, cross-domain measurement, and decision-making. I continuously seek new opportunities to apply my expertise.
 
 
