@@ -17,7 +17,25 @@
 
 <tr style="height: 186px;">
 <td style="width: 50%; height: 186px;">
-<p><a href="https://uae-real-estate.streamlit.app/">UAE Real Estate Investments: Price Prediction App</a></p>
+<p><a href="">Used E-Bikes Price Prediction App (private)</a></p>
+
+<p><a href="https://drive.google.com/file/u/1/d/1OgwaR9L_xyYElLlM2pwpybk5f_7aILlo/">Project Presentation (pdf)</a></p>
+  
+  <p>- Data Mining: over 15.000 scraped ads from Blocket.se</p>
+  <p>- Data Mining: over 1800 scraped e-bike models from PriceRunner.se</p>
+  <p>- Data Mining: over 2000 scraped e-bike listings from Rebike.com</p>
+<p>- Conducted comprehensive analysis of the Swedish electric bike market and international players, providing insights for strategic decision-making.
+</p>
+<p>- Developed predictive machine learning models with outstanding results (97-99% accuracy).
+</p>
+<p>- ML: created a separate app for yearly rental price prediction</p>
+<p>- Created insightful reports, leveraging data analysis and machine learning model outcomes.</p>
+</td>
+<td style="width: 50%; height: 186px;"><p>CatboostRegresson, VS Code, Streamlit, Pandas, Seaborn,GridSearchCV, StandardScaler, Cross_val_score, Shuffle</p>  
+  
+<tr style="height: 186px;">
+<td style="width: 50%; height: 186px;">
+<p><a href="https://uae-real-estate.streamlit.app/">UAE Real Estate Investments: Price Prediction App (public version)</a></p>
 <p>- Data Mining: 130.000 properties in Dubai</p>
 <p>- ML: created a machine learning algorithm for property valuation. R2 score is: 0.94</p>
 <p>- ML: created a separate app for yearly rental price prediction</p>
