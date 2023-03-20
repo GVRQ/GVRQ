@@ -17,10 +17,8 @@
 
 <tr style="height: 186px;">
 <td style="width: 50%; height: 186px;">
-<p><a href="">Used E-Bikes Price Prediction App (private)</a></p>
-
+<a>Used E-Bikes Price Prediction App (private)</a>
 <p><a href="https://drive.google.com/file/u/1/d/1OgwaR9L_xyYElLlM2pwpybk5f_7aILlo/">Project Presentation (pdf)</a></p>
-  
   <p>- Data Mining: over 15.000 scraped ads from Blocket.se</p>
   <p>- Data Mining: over 1800 scraped e-bike models from PriceRunner.se</p>
   <p>- Data Mining: over 2000 scraped e-bike listings from Rebike.com</p>
