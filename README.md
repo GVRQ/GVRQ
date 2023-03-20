@@ -17,11 +17,11 @@
 
 <tr style="height: 186px;">
 <td style="width: 50%; height: 186px;">
-<p><a href="https://uae-real-estate.streamlit.app/">UAE Real Estate Investments - Price Predictor APP</a></p>
+<p><a href="https://uae-real-estate.streamlit.app/">UAE Real Estate Investments: Price Prediction App</a></p>
 <p>- Data Mining: 130.000 properties in Dubai</p>
-<p>- ML: created a machine learning algorithm for property valuation</p>
-<p>- ML: created a machine learning algorithm for yearly rental price prediction</p>
-<p>- Created a web app that predicts property value (price, rental) based on property's features</p>
+<p>- ML: created a machine learning algorithm for property valuation. R2 score is: 0.94</p>
+<p>- ML: created a separate app for yearly rental price prediction</p>
+<p>- Created a web app that predicts property value based on property's features</p>
 </td>
 <td style="width: 50%; height: 186px;"><p>Work in progress</p>
 
