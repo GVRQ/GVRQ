@@ -40,13 +40,6 @@
 <p>- Created a web app that predicts property value based on property's features</p>
 </td>
 <td style="width: 50%; height: 186px;"><p>RandomForestRegressor, VS Code, Streamlit, Pandas, Matplotlib,Seaborn,LinearRegression, GridSearchCV, StandardScaler, Cross_val_score, Shuffle</p>
-
-<tr style="height: 186px;">
-<td style="width: 50%; height: 186px;">
-<p><a href="https://github.com/GVRQ/streamlit-crypto-data/">Cryptocurrency online app</a></p>
-<p>Created a simple web app with cryptocurrency exchange rates over time.</p>
-</td>
-<td style="width: 50%; height: 186px;"><p>VS Code, the CoinCap API, Streamlit.</p>
   
 <tr style="height: 186px;">
 <td style="width: 50%; height: 186px;">
@@ -79,7 +72,13 @@
 </tr>
 <tr style="height: 168px;">
 <td style="width: 50%; height: 168px;">  
-  
+
+<tr style="height: 186px;">
+<td style="width: 50%; height: 186px;">
+<p><a href="https://github.com/GVRQ/streamlit-crypto-data/">Cryptocurrency online app</a></p>
+<p>Created a simple web app with cryptocurrency exchange rates over time.</p>
+</td>
+<td style="width: 50%; height: 186px;"><p>VS Code, the CoinCap API, Streamlit.</p>
   
 <tr style="height: 186px;">
 <td style="width: 50%; height: 186px;">
