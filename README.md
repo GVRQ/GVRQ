@@ -1,5 +1,5 @@
 <h3 align="left">Hi there 👋 I'm Alexander,</h3>
-<p>Stockholm-based data scientist and digital marketing expert with a background in E-Commerce Analytics and Management. With an entrepreneurial mindset and technical skills in Python, Machine Learning, Data Science, Tableau, I focus on innovative data-driven solutions that drive growth. I have extensive experience in extracting actionable insights from massive amounts of data, cross-domain measurement, and decision-making.
+<p>Stockholm-based data scientist and digital marketing expert with a background in E-Commerce and Management. With an entrepreneurial mindset, I focus on innovative data-driven solutions that drive growth.
 
 
 <h3 style="text-align: left;" align="left">Connect with me:</h3>
