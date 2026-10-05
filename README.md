@@ -13,7 +13,7 @@ Building more capable agentic systems across the model and harness layers — fr
 
 #### GigaChat SDKs & integrations
 
-- [GigaChat Python SDK](https://github.com/ai-forever/gigachat) [![PyPI Downloads](https://img.shields.io/pypi/dm/gigachat?style=flat)](https://pypistats.org/packages/gigachat) — official Python SDK for GigaChat
+- [GigaChat Python SDK](https://github.com/ai-forever/gigachat) [![PyPI Downloads](https://static.pepy.tech/personalized-badge/gigachat?period=monthly&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads%2Fmonth)](https://pepy.tech/projects/gigachat) — official Python SDK for GigaChat
 - [GigaChat JavaScript / TypeScript SDK](https://github.com/ai-forever/gigachat-js)
 - [LangChain GigaChat](https://github.com/ai-forever/langchain-gigachat) — LangChain / LangGraph integration
 
