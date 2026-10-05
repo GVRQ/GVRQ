@@ -17,7 +17,7 @@ Agentic model post-training (SFT/RL) · agent harnesses · tool use & evals · S
 
 #### GigaChat SDKs & integrations
 
-- [GigaChat Python SDK](https://github.com/ai-forever/gigachat) — official Python SDK for GigaChat [![GitHub Downloads (all assets, all releases)](https://img.shields.io/pypi/dm/gigachat?style=flat-square?style=flat-round)]
+- [GigaChat Python SDK](https://github.com/ai-forever/gigachat) — official Python SDK for GigaChat [GitHub Downloads (all assets, all releases)](https://img.shields.io/pypi/dm/gigachat?style=flat-square?style=flat-round)
 - [GigaChat JavaScript / TypeScript SDK](https://github.com/ai-forever/gigachat-js)
 - [GigaChat Java SDK](https://github.com/ai-forever/gigachat-java)
 - [LangChain GigaChat](https://github.com/ai-forever/langchain-gigachat) — LangChain / LangGraph integration
